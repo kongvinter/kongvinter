@@ -1,6 +1,12 @@
 ## I’m a Biological Sciences student exploring the dev world. I enjoy building practical tools, small apps, and useful software that connect science, data, and technology. I’m currently learning:
 
-JavaScript • HTML • CSS • React • Next.js • Node.js • PostgreSQL
+![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-181717?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=nodedotjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181717?style=for-the-badge&logo=postgresql)
 
 I’m always improving by creating real projects and solving real problems. My goal is to grow as a developer, deliver clean solutions, and bring value to people who need functional, reliable, and well-built web software.
 
