@@ -1,4 +1,8 @@
-## Hi there 👋
+## I’m a Biological Sciences student exploring the dev world. I enjoy building practical tools, small apps, and useful software that connect science, data, and technology. I’m currently learning:
+
+JavaScript • HTML • CSS • React • Next.js • Node.js • PostgreSQL
+
+I’m always improving by creating real projects and solving real problems. My goal is to grow as a developer, deliver clean solutions, and bring value to people who need functional, reliable, and well-built web software.
 
 <!--
 **kongvinter/kongvinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
