@@ -1,4 +1,4 @@
-## I’m a Biological Sciences student exploring the dev world. I enjoy building practical tools, small apps, and useful software that connect science, data, and technology. I’m currently learning:
+## I’m a Biological Sciences student exploring the dev world. I enjoy building projects and products that create real value for people and clients. I’m currently learning:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5)
