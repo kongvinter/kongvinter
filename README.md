@@ -8,7 +8,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=nodedotjs)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181717?style=for-the-badge&logo=postgresql)
 
-I’m always improving by creating real projects and solving real problems. My goal is to grow as a developer, deliver clean solutions, and bring value to people who need functional, reliable, and well-built web software.
+I’m always improving by creating real projects and solving real problems. My goal is to grow as a developer, and bring value to people who need functional, reliable, and well-built web software.
 
 <!--
 **kongvinter/kongvinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
