@@ -1,15 +1,15 @@
-## I’m a Biological Sciences student exploring the dev world. I enjoy building projects and products that create real value for people and clients. I’m currently learning:
+## I’m a developer focused on building practical projects and products that create real value for people and clients.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-181717?style=for-the-badge&logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=nodedotjs)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181717?style=for-the-badge&logo=postgresql)
+### Main stack
 
-I’m always improving by creating real projects and solving real problems. My goal is to grow as a developer, and bring value to people who need functional, reliable, and well-built web software.
+![Java](https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-181717?style=for-the-badge&logo=springboot)
+![JavaFX](https://img.shields.io/badge/JavaFX-181717?style=for-the-badge&logo=java)
 
+### Complementary
+
+![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat&logo=javascript)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181717?style=flat&logo=postgresql)
 <!--
 **kongvinter/kongvinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
