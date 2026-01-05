@@ -47,6 +47,6 @@ I’m a developer focused on building practical projects and products that creat
 ⠒⠠⠤⣀⣄⡀⠀⠀⢀⣰⣿⠿⠿⠿⠿⠿⠿⠿⣿⡄⠀⠀⢀⡠⠔⠉⠀⠀⠀
 ⠀⠀⠀⠀⠀⠉⠙⠻⠿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠈⠻⠷⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
 </pre>
-![Gráfico de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kongvinter&layout=compact&langs_count=7&theme=tokyonight&hide_border=true)
+
 
 
