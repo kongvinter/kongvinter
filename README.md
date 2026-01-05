@@ -13,7 +13,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181717?style=flat&logo=postgresql)
 ![JavaFX](https://img.shields.io/badge/JavaFX-181717?style=for-the-badge&logo=java)
 
-
+<pre>
    .--.
   |o_o |
   |:_/ |
@@ -21,5 +21,5 @@
 (|     | )
 /'\_   _/`\
 \___)=(___/
-
+</pre>
 
