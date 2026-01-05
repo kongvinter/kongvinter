@@ -26,7 +26,7 @@ I’m a developer focused on building practical projects and products that creat
 ---
 
 <pre align="center">
-        a8888b.
+      a8888b.
      d888888b.
      8P"YP"Y88
      8|o||o|88
