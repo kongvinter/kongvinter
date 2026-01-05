@@ -22,7 +22,7 @@ I’m a developer focused on building practical projects and products that creat
   <img src="https://img.shields.io/badge/PostgreSQL-181717?style=flat&logo=postgresql" />
 </p>
 
-[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kongvinter&layout=compact&theme=tokyonight)](https://github.com/kongvinter)
+
 ---
 
 <table border="0">
