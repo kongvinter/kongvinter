@@ -30,6 +30,37 @@ I’m a developer focused on building practical projects and products that creat
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 <table border="0">
