@@ -47,11 +47,9 @@ I’m a developer focused on building practical projects and products that creat
 ⠒⠠⠤⣀⣄⡀⠀⠀⢀⣰⣿⠿⠿⠿⠿⠿⠿⠿⣿⡄⠀⠀⢀⡠⠔⠉⠀⠀⠀
 ⠀⠀⠀⠀⠀⠉⠙⠻⠿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠈⠻⠷⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
 </pre>
-    </td>
-    <td valign="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongvinter&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+   </pre>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongvinter&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+  </div>
+</div>
 
 
