@@ -14,13 +14,15 @@
 ![JavaFX](https://img.shields.io/badge/JavaFX-181717?style=for-the-badge&logo=java)
 
 
-    .--.
-   |o_o |
-   |:_/ |
-  //   \ \
- (|     | )
+```text
+   .--.
+  |o_o |
+  |:_/ |
+ //   \ \
+(|     | )
 /'\_   _/`\
-\___)=(___/ 
+\___)=(___/
+
  
 <!--
 **kongvinter/kongvinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
