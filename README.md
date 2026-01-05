@@ -25,7 +25,8 @@ I’m a developer focused on building practical projects and products that creat
 
 ---
 
-<pre align="center">
+<div style="text-align: center;">
+<pre>
       a8888b.
      d888888b.
      8P"YP"Y88
@@ -43,5 +44,6 @@ I’m a developer focused on building practical projects and products that creat
  /     \.___.d|    .'
  `--..__)8888P`._.'
 </pre>
+</div>
 
 
