@@ -25,8 +25,7 @@ I’m a developer focused on building practical projects and products that creat
 
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-<pre>
+<pre style="display: block; margin: 0 auto; text-align: center;">
       a8888b.
      d888888b.
      8P"YP"Y88
@@ -44,7 +43,7 @@ I’m a developer focused on building practical projects and products that creat
  /     \.___.d|    .'
  `--..__)8888P`._.'
 </pre>
-</div>
+
 
 
 
