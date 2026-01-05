@@ -22,45 +22,6 @@ I’m a developer focused on building practical projects and products that creat
   <img src="https://img.shields.io/badge/PostgreSQL-181717?style=flat&logo=postgresql" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kongvinter&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas de kongvinter" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 <table border="0">
