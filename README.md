@@ -25,7 +25,7 @@ I’m a developer focused on building practical projects and products that creat
 
 ---
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
 <pre>
       a8888b.
      d888888b.
@@ -45,5 +45,6 @@ I’m a developer focused on building practical projects and products that creat
  `--..__)8888P`._.'
 </pre>
 </div>
+
 
 
