@@ -20,7 +20,6 @@ I’m a developer focused on building practical projects and products that creat
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-181717?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/PostgreSQL-181717?style=flat&logo=postgresql" />
-  <img src="https://img.shields.io/badge/JavaFX-181717?style=for-the-badge&logo=java" />
 </p>
 
 ---
