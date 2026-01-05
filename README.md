@@ -48,5 +48,3 @@ I’m a developer focused on building practical projects and products that creat
 ⠀⠀⠀⠀⠀⠉⠙⠻⠿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠈⠻⠷⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
 </pre>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kongvinter)](https://github.com/anuraghazra/github-readme-stats)
