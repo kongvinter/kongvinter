@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm a Developer</h1>
+<h1 align="center">Hi</h1>
 
 <p align="center">
-I’m a developer focused on building practical projects and products that create real value for people and clients.
+developer focused on building practical projects and products that create real value for people and clients.
 </p>
 
 ---
