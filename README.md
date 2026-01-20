@@ -1,8 +1,3 @@
-<h1 align="center">Hi</h1>
-
-<p align="center">
-developer focused on building practical projects and products that create real value for people and clients.
-</p>
 
 ---
 
